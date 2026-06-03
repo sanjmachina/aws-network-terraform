@@ -16,9 +16,9 @@ module "vpc" {
   ]
 
   azs = [
-    "ap-south-1a",
-    "ap-south-1b",
-    "ap-south-1c"
+    "us-east-1a",
+    "us-east-1b",
+    "us-east-1c"
   ]
 
   project_name = "demo"
