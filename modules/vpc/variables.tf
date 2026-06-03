@@ -32,4 +32,3 @@ variable "environment" {
   type        = string
   description = "Environment (dev/stage/prod)"
 }
-``
